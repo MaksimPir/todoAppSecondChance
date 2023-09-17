@@ -1,0 +1,7 @@
+.flex-class{
+  position: relative;
+}
+.flex-self{
+  position: absolute;
+  right: 0;
+}
